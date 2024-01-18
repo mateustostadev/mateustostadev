@@ -19,8 +19,5 @@ Olá, eu sou Mateus Tosta, um desenvolvedor apaixonado por PHP e Laravel, com ha
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,php,laravel,git,mysql,vscode,postman)](https://skillicons.dev)
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub de Mateus Tosta](https://github-readme-stats.vercel.app/api?username=mateustostadev&show_icons=true&count_private=true&hide=contribs,prs)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou discussões interessantes. Vamos criar algo incrível juntos!
