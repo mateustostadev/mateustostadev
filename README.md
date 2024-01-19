@@ -2,6 +2,13 @@
 
 Olá, eu sou Mateus Tosta, um desenvolvedor apaixonado por PHP e Laravel, com habilidades em HTML, CSS, JS e MySQL. Estou constantemente buscando aprender e aprimorar minhas habilidades para criar soluções elegantes e eficientes.
 
+## Sobre Mim
+
+- 💻 Desenvolvedor PHP/Laravel
+- 👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 Aprendendo mais sobre: Docker, Git, Amazon Lambda e Amazon S3
+
+
 ## Contatos:
 
 <div>
@@ -10,11 +17,6 @@ Olá, eu sou Mateus Tosta, um desenvolvedor apaixonado por PHP e Laravel, com ha
 </div>
 
 
-## Sobre Mim
-
-- 💻 Desenvolvedor PHP/Laravel
-- 👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Aprendendo mais sobre: Docker, Git, Amazon Lambda e Amazon S3 
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,php,laravel,git,mysql,vscode,postman)](https://skillicons.dev)
