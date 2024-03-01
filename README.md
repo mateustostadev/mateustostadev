@@ -5,7 +5,7 @@ Olá, eu sou Mateus Tosta, um desenvolvedor apaixonado por PHP e Laravel, com ha
 ## Sobre Mim
 
 - 💻 Desenvolvedor PHP/Laravel
-- 👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 👩🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções web.
 - 🌱 Aprendendo mais sobre: Docker, Git, Amazon Lambda e Amazon S3
 
 
