@@ -11,7 +11,7 @@ Olá, eu sou Mateus Tosta, um desenvolvedor apaixonado por PHP e Laravel, com ha
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,php,laravel,git,mysql,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,php,laravel,docker,git,mysql,vscode,postman)](https://skillicons.dev)
 
 
 
