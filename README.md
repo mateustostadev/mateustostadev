@@ -1,6 +1,6 @@
 # Olá, Meu nome é Mateus Tosta!
 
-Olá, eu sou Mateus Tosta, um desenvolvedor apaixonado por PHP e Laravel, com habilidades em HTML, CSS, JS e MySQL. Estou constantemente buscando aprender e aprimorar minhas habilidades para criar soluções elegantes e eficientes.
+Eu sou um desenvolvedor apaixonado por PHP e Laravel, com habilidades em HTML, CSS, JS e MySQL. Estou constantemente buscando aprender e aprimorar minhas habilidades para criar soluções elegantes e eficientes.
 
 ## Sobre Mim
 
