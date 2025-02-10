@@ -21,11 +21,11 @@ Eu sou um desenvolvedor apaixonado por PHP e Laravel, com habilidades em HTML, C
 
 ### Front-end
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vuejs,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,vuejs,figma)](https://skillicons.dev)
 
 ### Back-end
   
-  [![My Skills](https://skillicons.dev/icons?i=js,php,python,laravel,jquery,nodejs,docker,mysql,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,laravel,jquery,nodejs,docker,mysql,postman)](https://skillicons.dev)
 
 ### Versionamento
 
